@@ -7,7 +7,7 @@ import "./scss/application.scss";
 const App = () => {
   return (
     <div className="app-container">
-      <h1>Sup 🌎</h1>
+      <h1>Sup World 🌎</h1>
     </div>
   );
 };
